@@ -1,4 +1,4 @@
-### Hi there! I'm Orlando 👋
+### Hi there! 👋
 
 Hi, I'm Orlando Sánchez, a passionate self-taught developer from Venezuela.
 
