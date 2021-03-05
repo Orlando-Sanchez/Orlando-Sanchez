@@ -2,7 +2,7 @@
 
 Hi, I'm Orlando Sánchez, a passionate self-taught developer from Venezuela.
 
-![Alt text](/blob/main/linkedin.svg?raw=true&sanitize=true "LinkedinLogo")
+![Alt text](/linkedin.svg?raw=true&sanitize=true "LinkedinLogo")
 
 - 🔭 I’m currently working on something cool...
 - 🌱 I’m currently learning Ruby on Rails...
