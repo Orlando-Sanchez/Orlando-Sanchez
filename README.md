@@ -2,7 +2,7 @@
 
 Hi, I'm Orlando Sánchez, a passionate self-taught developer from Venezuela.
 
-<a href="https://www.linkedin.com/in/orlandosanchez1/"><img src="/linkedin.svg?raw=true&sanitize=true" width="20" height="20" /></a>
+  <a href="https://www.linkedin.com/in/orlandosanchez1/"><img src="/linkedin.svg?raw=true&sanitize=true" width="20" height="20" /></a>
 
 - 🔭 I’m currently working on something cool...
 - 🌱 I’m currently learning Ruby on Rails...
